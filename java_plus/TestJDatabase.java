@@ -1,3 +1,4 @@
+# java(eclipse)에서 oracle(database) 가져오는 코드
 package mc.sn.day12;
 
 import java.sql.Connection;
